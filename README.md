@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&text=Hi!%20I'm%20Heeju!&fontColor=ffffff&fontSize=60&height=230" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&text=Hi!%20I'm%20Heeju!&fontColor=ffffff&fontSize=45&height=180" />
 </p>
-
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimheejoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
